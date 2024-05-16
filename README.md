@@ -84,7 +84,11 @@ If you find Deformable DETR useful in your research, please consider citing:
     ```bash
     conda install pytorch=1.5.1 torchvision=0.6.1 cudatoolkit=9.2 -c pytorch
     ```
-  
+* Clone this repository
+    ```bash
+    git clone https://github.com/fundamentalvision/Deformable-DETR.git
+    cd Deformable-Detr
+    ```
 * Other requirements
     ```bash
     pip install -r requirements.txt
